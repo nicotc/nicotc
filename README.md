@@ -25,9 +25,9 @@
 ---
 
 
-  ## 💰 Si quieres brindarme un café 
+  ## 💰 Brindame una Pepsi 
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/NicolasTestagrossa) 
-  [![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)
+  [![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)](https://paypal.me/NicolasTestagrossa) 
 
 
   
