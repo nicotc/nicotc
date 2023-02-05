@@ -8,7 +8,7 @@
 👯 Busco colaborar en proyectos creados con Laravel.<br>
 🤝 Estoy buscando hacer amistad con otros programadores.<br>
 🌱 Actualmente estoy aprendiendo Python.<br>
-💬 Preguntame sobre PHP, Laravel.
+💬 Préguntame sobre PHP, Laravel.
 
 
 ## 🌐 Socials:
@@ -25,7 +25,7 @@
 ---
 
 
-  ## 💰 Brindame una Pepsi 
+  ## 💰 Bríndame una Pepsi 
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/NicolasTestagrossa) 
   [![Binance](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)](https://paypal.me/NicolasTestagrossa) 
 
