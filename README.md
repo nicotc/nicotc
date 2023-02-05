@@ -1,3 +1,6 @@
+![github-readme-profile](https://github.com/nicotc/nicotc/blob/main/img/banner.png?raw=true)
+
+
 
 # 💫 About Me:
 🔭 Actualmente trabajo como Freelace.<br>
