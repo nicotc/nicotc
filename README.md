@@ -26,7 +26,7 @@
 > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Proyecto que consiste en un marketplace (una tienda virtual conformada por diferentes proveedores y fabricantes) para la comercialización de chocolates, cacao y productos derivados.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nuestra misión principal es impulsar a emprendedores, medianas y pequeñas empresas de chocolates, en Latinoamérica, para darles mayor visibilidad de manera online.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Como emprendedores sabemos lo complicado que puede ser mantener un sitio web propio para vender productos, es por ello, que un marketplace es una excelente alternativa como canal de ventas.<br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Estamos dando nuestros primeros pasos en Venezuela, y buscamos el apoyo de alguna aceleradora para poder impulsar este proyecto ya que es autofinanciado. Y a veces no podemos dedicar todo el esfuerzo que quisiéramos.<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Estamos dando nuestros primeros pasos en Venezuela, y buscamos el apoyo de alguna aceleradora para poder impulsar este proyecto ya que es autofinanciado, y a veces no podemos dedicar todo el esfuerzo que quisiéramos.<br> 
 
 
 
