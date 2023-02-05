@@ -12,10 +12,6 @@
 💬 Préguntame sobre PHP, Laravel.
 
 
-## 🌐 Mis redes sociales:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/3365) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nicolas-testagrossa/) 
-
 
 <!-- # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nicotc&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
@@ -33,6 +29,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Estamos dando nuestros primeros pasos en Venezuela, y buscamos el apoyo de alguna aceleradora para poder impulsar este proyecto ya que es autofinanciado. Y a veces no podemos dedicar todo el esfuerzo que quisiéramos.<br> 
 
 
+
+## 🌐 Mis redes sociales:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/3365) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nicolas-testagrossa/) 
 
 
 
